@@ -6,6 +6,7 @@ include "hello.php";
 echo "HOME | PROFILE | SETTINGS";
 
 
+
 echo "<br>"
 echo " THIS IS THE CONTENTS.";
 
@@ -14,3 +15,6 @@ echo " THIS IS THE CONTENTS.";
 
 
 ?>
+
+
+<p>This is a paragraph</p
